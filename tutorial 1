@@ -1,0 +1,14 @@
+\documentclass[10pt]{article}
+
+\begin{document}
+
+% \\ means new line-> soft return. 空一行是硬换行(hard returen, means indented next line)。硬换行后首行缩紧（indent）
+
+this is my first \LaTeX \ document.\\
+this is my first LaTex.
+
+Suppose we given a rectangle function with side lengths (x+1) and (x+2).\\
+Suppose we given a rectangle function with side lengths $(x+1)$ and $(x+2)$.Then the equation $A=x^2+4x+3$ represents the area of the rectangle.
+
+Suppose we given a rectangle function with side lengths $(x+1)$ and $(x+2)$.Then the equation $$A=x^2+4x+3$$ represents the area of the rectangle.
+\end{document}
