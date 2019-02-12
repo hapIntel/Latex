@@ -2,7 +2,7 @@ macros in the preamble after packages
 
 \definecolor{gray}{rgb}{0.5, 0.5, 0.5}
 
-%color definition site: [http://latexcolor.com/]
+%[color definition site]: (http://latexcolor.com/)
 
 
 % define new command \tabincell used for the table new line
