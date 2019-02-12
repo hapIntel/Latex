@@ -1,0 +1,13 @@
+macros in the preamble after packages 
+
+\definecolor{gray}{rgb}{0.5, 0.5, 0.5}
+
+%color definition site: [http://latexcolor.com/]
+
+
+% define new command \tabincell used for the table new line
+
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+
+% 设置参考文献的行距。
+\setlength{\bibitemsep}{.2\baselineskip plus .05\baselineskip minus .05\baselineskip}
